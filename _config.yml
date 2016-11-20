@@ -145,12 +145,15 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/shumchris"
+  - title: "github"
+    url: "https://github.com/chris-shum"
   - title: "instagram"
     url: "https://instagram.com/chrisshowme"
   - title: "twitter"
     url: "https://twitter.com/chrisshowme1"
-  - title: "github"
-    url: "https://github.com/chris-shum"
+
 
 
 ############
