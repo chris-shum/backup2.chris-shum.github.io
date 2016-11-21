@@ -30,7 +30,7 @@ lang: "en"
 author: "Chris Shum"
 title: "{ Chris Shum }"
 description: "Website of Chris Shum."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "shum, chris, android, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -53,8 +53,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Boop."
-  - text: "Womp!"
+  - text: "Boop!"
+  - text: "Under Construction!"
+  - text: "Womp."
+
 
 me-img: "/img/jetpacktocat.png"
 
@@ -100,8 +102,6 @@ pinterest-share: False
 pocket-share: False
 vkontakte-share: False
 
-disqus-shortname: "Chris Shum"
-
 syntax-highlight: True
 
 ############
@@ -114,7 +114,7 @@ events:
     description: "Android Developer Nanodegree"
   - image: "/img/timeline/ga.png"
     date: "2016"
-    description: "Android Development Immersive"
+    description: "Android Development Immersive Teaching Assistant"
   - image: "/img/timeline/intense.png"
     date: "2014-2015"
     description: "Electro-Mechanical Engineer"
@@ -154,10 +154,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/shumchris"
   - title: "github"
     url: "https://github.com/chris-shum"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/shumchris"
   - title: "instagram"
     url: "https://instagram.com/chrisshowme"
   - title: "twitter"
