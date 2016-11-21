@@ -1,22 +1,15 @@
 ---
 layout: post
 section-type: post
-title: Mechanial Engineering
+title: Mechanical Engineering
 category: skills
 tags: [ '' ]
 ---
 
-Classically trained as a Mechanical Engineer, I have experience working in high paced manufacturing facilities.  My talents include of mechanical design of opto-elctro packages, industrial engineering concepts such as 5S, ISO9001, etc, and working with vendors and clients to make ends meet.
+I am classically trained as a mechanical engineer, having several years of work experience in high paced manufacturing facilities.  I received my bachelor's in physics from <a href = "http://www.physics.rutgers.edu/">Rutgers University</a> while simultaneously working as a lead technician at <a href="http://us.trumpf.com">Trumpf Photonics</a>.  In order to advance myself, I obtained my master's in mechanical engineering from <a href="http://www2.mmu.ac.uk/study/postgraduate/taught/2016/13396/">Manchester Metropolitan University</a>.  I spent a year working as an electro-mechanical engineer at <a href="http://www.intenseco.com">Intense</a> before beginning my pursuit into the tech industry.
 
-Intense
-Trumpf Photonics link
+My educational and professional experience prove excellent procedural problem solving skills, adaptation to new technologies, and leadership abilities.  I am experienced in lean manufacturing methodologies that are very similar to software development methodologies like Agile. Also, collaborating with vendors
+and customers, adapting my team to sudden changes, and improving processes to deliver the
+best products were very typical day to day responsibilities. These are great assets that can transfer over to development culture where developers are expected to spend time obsessively testing features that are functional and engaging, have a strong sense of usability and design, and propose different technologies to improve old things or create new ones with a team of designers and engineers.
 
-I received my masters from MMU.  An English school acreddited by the http://www.theiet.org/ and http://www.imeche.org/.
-http://www2.mmu.ac.uk/study/postgraduate/taught/2016/13396/
-My bachelors was from Rutgers http://www.physics.rutgers.edu/.
-
-I've learned a lot and blah blah balh.
-
-Solidworks, ANSYS, 5S, Kanban principles, Lean Manufacturing, stuff. . .
-
-Resume
+For more details please see my old engineering Resume
