@@ -12,4 +12,4 @@ My educational and professional experience prove excellent procedural problem so
 and customers, adapting my team to sudden changes, and improving processes to deliver the
 best products were very typical day to day responsibilities. These are great assets that can transfer over to development culture where developers are expected to spend time obsessively testing features that are functional and engaging, have a strong sense of usability and design, and propose different technologies to improve old things or create new ones with a team of designers and engineers.
 
-For more details please see my old engineering Resume
+For more details please see my old engineering <a href = "https://github.com/chris-shum/chris-shum.github.io/raw/master/resumes/Chris_Shum_Engineering_Resume.pdf">resume</a>.
