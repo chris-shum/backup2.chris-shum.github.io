@@ -110,9 +110,18 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/udacity.png"
+    date: "In Progress"
+    description: "Android Developer Nanodegree"
+  - image: "/img/timeline/ga.png"
+    date: "2016"
+    description: "Android Development Immersive"
+  - image: "/img/timeline/mmu.png"
+    date: "2014"
+    description: "Masters in Mechanical Engineering"
+  - image: "/img/timeline/rutgers.png"
+    date: "2012"
+    description: "Bachelors in Physics"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
