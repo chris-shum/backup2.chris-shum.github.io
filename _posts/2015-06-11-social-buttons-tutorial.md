@@ -1,28 +1,22 @@
 ---
 layout: post
 section-type: post
-title: Modifying the social buttons
-category: tech
-tags: [ 'tutorial' ]
+title: Mechanial Engineering
+category: engineering
+tags: [ '' ]
 ---
 
-Social buttons (rendered above the footer) are great for having a small hub with all your social footprint.
+Classically trained as a Mechanical Engineer, I have experience working in high paced manufacturing facilities.  My talents include of mechanical design of opto-elctro packages, industrial engineering concepts such as 5S, ISO9001, etc, and working with vendors and clients to make ends meet.
 
-You can edit them with the following variables:
+Intense
+Trumpf Photonics link
 
-<pre><code data-trim class="yaml">
-social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
-</code></pre>
+I received my masters from MMU.  An English school acreddited by the http://www.theiet.org/ and http://www.imeche.org/.
+http://www2.mmu.ac.uk/study/postgraduate/taught/2016/13396/
+My bachelors was from Rutgers http://www.physics.rutgers.edu/.
 
-The title selects the desired [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
-icon and it shouldn't include the "fa-" prefix.
+I've learned a lot and blah blah balh.
+
+Solidworks, ANSYS, 5S, Kanban principles, Lean Manufacturing, stuff. . .
+
+Resume
