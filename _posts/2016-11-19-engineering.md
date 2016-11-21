@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Mechanial Engineering
-category: engineering
+category: skills
 tags: [ '' ]
 ---
 
