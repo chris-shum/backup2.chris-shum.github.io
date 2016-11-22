@@ -29,7 +29,7 @@ force-https: True
 lang: "en"
 author: "Chris Shum"
 title: "{ Chris Shum }"
-description: "Website of Chris Shum."
+description: "Digital Resume of Chris Shum"
 keywords: "shum, chris, android, personal, jekyll, theme"
 favicon: "/img/android.ico"
 
@@ -53,10 +53,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Boop!"
-  - text: "Under Construction!"
-  - text: "Womp."
-
+  - text: "Digital resume of Chris Shum"
+  - text: "Welcome!"
 
 me-img: "/img/androidself.png"
 
@@ -146,9 +144,7 @@ email: "shum.chris8@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Chris Shum is. . .
-
-John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Chris Shum is an aspiring Android developer.  Currently open to all opportunities available."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -177,7 +173,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username:
 keybase-in-social: False
 keybase-in-footer: False
 
