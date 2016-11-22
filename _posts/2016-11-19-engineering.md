@@ -12,4 +12,4 @@ My educational and professional experience prove excellent procedural problem so
 
 For more details please see my old engineering <a href = "https://github.com/chris-shum/chris-shum.github.io/raw/master/resumes/Chris_Shum_Engineering_Resume.pdf">resume</a>.
 
-<a href = "https://chris-shum.github.io/skills/2016/11/20/android.html"><--Android</a>  <a href = "https://chris-shum.github.io/skills/2016/11/18/misc.html">Miscellaneous--></a>  
+<a href = "https://chris-shum.github.io/skills/2016/11/20/android.html"><--Android</a>&emsp;&emsp;&emsp;<a href = "https://chris-shum.github.io/skills/2016/11/18/misc.html">Miscellaneous--></a>  
