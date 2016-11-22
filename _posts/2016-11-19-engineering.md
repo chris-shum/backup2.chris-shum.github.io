@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Mechanical Engineering
+title: Engineering
 category: skills
 tags: [ '' ]
 ---
