@@ -187,7 +187,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Skills: 'latest-post'
+  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
