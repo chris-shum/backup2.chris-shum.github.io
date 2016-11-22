@@ -37,7 +37,7 @@ favicon: "/img/android.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/android.ico"
+black-favicon: "/img/androidheader.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Womp."
 
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/androidself.png"
 
 ##############################
 # Color the browser elements #
