@@ -12,13 +12,13 @@
 
     {% include header.html %}
 
-    {% include about.html %}
-
-    {% include latest-post.html %}
-
-    {% include timeline.html %}
-
-    {% include contact.html %}
+    {% for p in site.pages_list %}
+  {% for page in site.pages %}
+    {% if p[1] == page.section-type %}
+      {% include {{ page.path }} %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
     {% include footer.html %}
 
