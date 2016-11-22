@@ -31,13 +31,13 @@ author: "Chris Shum"
 title: "{ Chris Shum }"
 description: "Website of Chris Shum."
 keywords: "shum, chris, android, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/android.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/android.ico"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -146,7 +146,9 @@ email: "shum.chris8@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Chris Shum is. . .
+
+John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 
 ##################
