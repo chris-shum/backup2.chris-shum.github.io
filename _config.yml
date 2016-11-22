@@ -111,22 +111,22 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/udacity.png"
     date: "In Progress"
-    description: "<a href = "https://profiles.udacity.com/u/christophershum">Android Developer Nanodegree</a>"
+    description: "Android Developer Nanodegree"
   - image: "/img/timeline/ga.png"
     date: "2016"
-    description: "<a href = "https://profiles.generalassemb.ly/profiles/shumchris">Android Development Immersive Teaching Assistant</a>"
+    description: "Android Development Immersive Teaching Assistant"
   - image: "/img/timeline/intense.png"
     date: "2014-2015"
-    description: "<a href = "http://www.intenseco.com/">Electro-Mechanical Engineer</a>"
+    description: "Electro-Mechanical Engineer"
   - image: "/img/timeline/mmu.png"
     date: "2014"
-    description: "<a href = "http://www2.mmu.ac.uk/study/postgraduate/taught/2016/13396/">Masters in Mechanical Engineering</a>"
+    description: "Masters in Mechanical Engineering"
   - image: "/img/timeline/rutgers.png"
     date: "2012"
-    description: "<a href = "http://www.physics.rutgers.edu/">Bachelors in Physics</a>"
+    description: "Bachelors in Physics"
   - image: "/img/timeline/trumpf.png"
     date: "2009-2012"
-    description: "<a href = "http://www.us.trumpf.com/en.html">Lead Technician</a>"
+    description: "Lead Technician"
 
 # First image of the Timeline
 
