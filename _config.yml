@@ -107,12 +107,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/ga.png"
-    date: "2016-Present"
-    description: "Android Development Instructional Associate"
   - image: "/img/timeline/udacity.png"
     date: "In Progress"
     description: "Android Developer Nanodegree"
+  - image: "/img/timeline/ga.png"
+    date: "2016"
+    description: "Android Development Teaching Assistant"
   - image: "/img/timeline/intense.png"
     date: "2014-2015"
     description: "Electro-Mechanical Engineer"
