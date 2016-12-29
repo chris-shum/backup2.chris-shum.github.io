@@ -108,7 +108,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/udacity.png"
-    date: "In Progress"
+    date: "2016"
     description: "Android Developer Nanodegree"
   - image: "/img/timeline/ga.png"
     date: "2016"
